@@ -1,0 +1,19 @@
+{
+  "name": "clockproject",
+  "version": "1.0.0",
+  "description": "digital clock project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameszenartist/clockProject.git"
+  },
+  "author": "James Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameszenartist/clockProject/issues"
+  },
+  "homepage": "https://github.com/jameszenartist/clockProject#readme"
+}

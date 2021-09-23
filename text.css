@@ -28,26 +28,19 @@ body {
   align-items: center;
   text-align: center;
   font-size: 3rem;
+  text-shadow: 0 0 3rem #ff14bd;
 }
 
-.clock {
+.time {
   border: 4px solid #ff14bd;
   border-radius: 0.6rem;
   padding: 1rem;
   width: auto;
   height: auto;
   display: flex;
-  /* flex-direction: column; */
   justify-content: center;
   align-items: center;
   text-align: center;
+  font-size: 1.5em;
+  text-shadow: 0 0 3rem #ff14bd;
 }
-
-/* button {
-  display: block;
-  padding: 1rem;
-  color: #ff14bd;
-  font-size: 1rem;
-  border: 2px solid #ff14bd;
-  border-radius: 5px;
-} */
