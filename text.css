@@ -10,6 +10,7 @@
 }
 
 body {
+  background: #31202b;
   width: 100%;
   height: 100vh;
   display: flex;
