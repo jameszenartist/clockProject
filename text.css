@@ -6,7 +6,7 @@
   color: #ff14bd;
   /* background-color: #31202b; */
   text-decoration: none;
-  font-family: "Orbitron", sans-serif;
+  font-family: "VT323", monospace;
 }
 
 body {
@@ -28,7 +28,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-size: 3rem;
+  font-size: 4rem;
   text-shadow: 0 0 3rem #ff14bd;
 }
 
