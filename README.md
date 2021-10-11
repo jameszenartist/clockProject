@@ -17,7 +17,7 @@ As a growing software developer, I thought it was about time to build a digital 
 
 ## Built With
 
-Currently with just HTML/CSS/Javascript for the time being, but in the near future intentions are to implement Netlify on the front end and possibly some various Javascript libraries.
+Currently with just HTML/CSS/Javascript for the time being, but in the near future intentions are to improve upon the UI/UX design, CSS, and possibly incorporate some various Javascript libraries.
 
 ## Issues
 
