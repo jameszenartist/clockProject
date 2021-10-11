@@ -45,3 +45,51 @@ body {
   font-size: 1.5em;
   text-shadow: 0 0 3rem #ff14bd;
 }
+
+@media only screen and (max-width: 581px) {
+  .container {
+    font-size: 3.5rem;
+  }
+}
+
+@media only screen and (max-width: 512px) {
+  .container {
+    font-size: 3rem;
+  }
+}
+
+@media only screen and (max-width: 447px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 398px) {
+  .container {
+    width: 95%;
+  }
+}
+
+@media only screen and (max-width: 377px) {
+  .container {
+    font-size: 2.5rem;
+  }
+}
+
+@media only screen and (max-width: 321px) {
+  .container {
+    font-size: 2rem;
+  }
+}
+
+@media only screen and (max-width: 266px) {
+  .container {
+    font-size: 1.5rem;
+  }
+}
+
+@media only screen and (max-width: 210px) {
+  .container {
+    font-size: 1rem;
+  }
+}
