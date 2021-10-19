@@ -2,6 +2,8 @@
 
 ![Github License](https://img.shields.io/badge/license-MIT-brightgreen)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d56cadb-06cd-4d68-8882-79468b8ebb45/deploy-status)](https://app.netlify.com/sites/brave-mahavira-73821f/deploys)
+
 ### Welcome to my digital clock project created with Javascript!
 
 As a growing software developer, I thought it was about time to build a digital clock to strengthen my abilities with Javascript. I also thought I'd use this project as an opportunity to sharpen my CSS design, and animations with several Javascript libraries in the near future.
